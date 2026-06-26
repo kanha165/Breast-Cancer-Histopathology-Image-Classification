@@ -72,11 +72,13 @@ Typical image filename:
 
 ---
 
-<p align="center">
-  <img src="cancerr.png" width="100%">
-</p>
+
 
 # 🏗️ Project Workflow
+
+<p align="center">
+  <img src="./cancerr.png" width="100%">
+</p>
 
 ```text
 Dataset Collection
