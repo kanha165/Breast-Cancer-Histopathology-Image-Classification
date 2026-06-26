@@ -75,7 +75,7 @@ Typical image filename:
 ## 🖼️ Project Workflow
 
 <p align="center">
-  <img src="cancer.png" width="100%">
+  <img src="cancer.png.png" width="100%">
 </p>
 
 # 🏗️ Project Workflow
